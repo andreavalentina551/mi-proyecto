@@ -1,3 +1,5 @@
+* a15809d docs: agregar Readme del proyecto
+* d8c27a3 docs: agregar historial del repositorio
 * ced7337 feat: agregar funcion para calcular area de un circulo
 * d585915 feat: agregar funcion para calcular area de un circulo
 * 5ce7f74 docs: agregar fecha al archivo de presentación
