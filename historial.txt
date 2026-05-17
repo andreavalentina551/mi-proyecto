@@ -1,0 +1,4 @@
+* ced7337 feat: agregar funcion para calcular area de un circulo
+* d585915 feat: agregar funcion para calcular area de un circulo
+* 5ce7f74 docs: agregar fecha al archivo de presentación
+* 31753e5 feat: agregar presentación del estudiante
