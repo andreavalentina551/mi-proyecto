@@ -2,3 +2,4 @@ Nombre: Andrea valentina ochoa cordoba
 Programa: Ingeniería de Sistemas
 Lenguaje elegido: Java
 Descripción del proyecto: Un programa en Java con funciones para calcular áreas de figuras geométricas.
+fecha: 16-05-2026
